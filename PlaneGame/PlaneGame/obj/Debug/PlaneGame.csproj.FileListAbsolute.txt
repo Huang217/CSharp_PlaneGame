@@ -1,0 +1,2 @@
+C:\Users\hcx21\source\repos\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csproj.AssemblyReference.cache
+C:\Users\hcx21\source\repos\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csproj.CoreCompileInputs.cache
